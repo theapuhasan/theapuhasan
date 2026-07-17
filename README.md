@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# [![Arif Hasan Apu]](https://theapuhasan.com)
+# [Arif Hasan Apu](https://theapuhasan.com)
 
 **IT Project & Product Management** · Dhaka → Rome 🇮🇹
 
